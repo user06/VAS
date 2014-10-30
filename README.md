@@ -6,7 +6,7 @@ Code for the proof of concept for Value Added Services. This service allows the 
 
 Features:
 
-•	Factory Design Pattern
+•	Factory design pattern
 
 •	Facade design pattern
 
