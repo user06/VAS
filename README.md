@@ -12,6 +12,6 @@ Features:
 
 •	JSON for configurable data
 
-•	Agile development using Scrum
+•	Agile development
 
 •	Junit for TDD
